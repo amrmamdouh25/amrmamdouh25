@@ -1,16 +1,13 @@
-## Hi there 👋
+Hey there! 
+I'm Amr, a Data Analyst based in Egypt.
 
-<!--
-**amrmamdouh25/amrmamdouh25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I mostly work on Data Cleaning — Visualisation and Analysis.
 
-Here are some ideas to get you started:
+I also use Figma for dashboard design and Procreate when I want to sketch ideas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tools & Tech
+Excel,Google Sheets, SQL, Power Bi
+
+A Bit About Me
+🍵 Not a coffee or tea person
+🧱 I like building things that are simple, useful, and easy to understand
