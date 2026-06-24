@@ -18,32 +18,24 @@ At Breadfast, one of Egypt's largest q-commerce and logistics operations, I work
  
 Before Breadfast, I worked as a Cost & Operations Analyst at Bazzarry, handling end-to-end cost analysis across materials, labor, fleet, and fuel, and building tools to streamline data tracking and reporting.
  
-My stack: SQL · Python · Google Sheets · Apps Script · Power BI · Data Studio
+My stack: SQL · Google Sheets · Power BI · Data Studio
  
 - **Portfolio:** https://github.com/amrmamdouh25
 - **reach me:** amrmamdouh2500@gmail.com
 
-<h3 align="left">Connect with me:</h3>
-<div align="left">
-  <a href="https://www.linkedin.com/in/amrmamdouh99" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/watch?v=o-ZZS-TliVE" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-</div>
-
 <h3 align="left">Tools & Technologies:</h3>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40" alt="Tableau logo" />
   <img width="12" />
-  <img src="https://camo.githubusercontent.com/f5ebafc96d3fea04148b6da17e57dd3942a28050cf6f59bb8959cb7121de5396/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f632f63662f4e65775f506f7765725f42495f4c6f676f2e737667" height="40" alt="mysql logo"  />
+
+  <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" height="40" alt="Looker Studio logo" />
   <img width="12" />
-  <img src="https://camo.githubusercontent.com/1bda40490a3244dbd1a675a07d12a20655c0e80488c322cde67914fe419acb2a/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f7461626c6561752d736f6674776172652e737667" height="40" alt="Tableau logo"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" height="40" alt="Looker Studio logo"  />
-  </div>
+
+  <img src="https://cdn.simpleicons.org/googlesheets/34A853" height="40" alt="Google Sheets logo" />
+</div>
