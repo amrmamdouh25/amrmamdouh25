@@ -24,7 +24,7 @@ Data Analyst and BI Developer with experience in Operations Analytics, Business 
 
 I specialize in transforming complex datasets into actionable business insights using SQL, Power BI, Excel, Looker Studio, and Google Sheets.
 
-Previously worked as a Cost & Operations Analyst at Bazzarry and currently focused on building scalable reporting solutions, performance dashboards, and data-driven decision-making frameworks.
+I'm currently focused on building scalable reporting solutions, performance dashboards, and data-driven decision-making frameworks.
 
 ---
 
